@@ -13,7 +13,6 @@ function Members(){
     'gurilla',
     'salsalani',
     'carlo belleza',
-    'angelita cute',
 ]
 
 var memberLen = members.length;
@@ -33,12 +32,12 @@ for(var i=0; i<memberLen; i++){
 }
 
 
-for(var i=50; i<100;i++){
+for(var i=1; i<100;i++){
 
     var itemList = document.createElement("li");
     itemList.className = "list-group-item ";
     var imageElem = document.createElement("img");
-    imageElem.src =`images/img${i}.jpg`;
+    imageElem.src =`anim/img${i}.jpg`;
     imageElem.alt = `an image from yuii nation`;
     imageElem.className = "img-fluid";
     imageElem.height = "auto";
