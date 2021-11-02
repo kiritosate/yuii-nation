@@ -1,0 +1,13 @@
+
+.white{
+    color: gainsboro;
+}
+.active_now{
+    color: white !important;
+}
+.active_list_item{
+    font-size: large;
+}
+.name-list{
+    text-transform: capitalize;
+}
