@@ -4,6 +4,7 @@
 function Members(){
     var members = [
     'kiritosate',
+    'jomar the gurilla',
     'maricar prii',
     'katrina keithHHH',
     'insect',
